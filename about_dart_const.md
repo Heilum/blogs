@@ -1,6 +1,6 @@
 ## Something about Dart's const
 
-First,let's look at this code snippe
+First,let's look at this code snippet
 
 ```
 void main() {
