@@ -5,6 +5,6 @@ Hi,My Name is WanFei. I am learning flutter and this website records some experi
 ### 1.Something about Dart's const
 
 const values and variable in dart
-[Something about Dart's const](index.md)
+[Something about Dart's const](about_dart_const.md)
 
 
